@@ -1,0 +1,15 @@
+E:\Desarrollo\Personal\Api\Core\bin\Debug\net6.0\Core.deps.json
+E:\Desarrollo\Personal\Api\Core\bin\Debug\net6.0\Core.dll
+E:\Desarrollo\Personal\Api\Core\bin\Debug\net6.0\Core.pdb
+E:\Desarrollo\Personal\Api\Core\bin\Debug\net6.0\Infraestructure.dll
+E:\Desarrollo\Personal\Api\Core\bin\Debug\net6.0\Infraestructure.pdb
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.csproj.CopyComplete
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.dll
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\refint\Core.dll
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\Core.pdb
+E:\Desarrollo\Personal\Api\Core\obj\Debug\net6.0\ref\Core.dll

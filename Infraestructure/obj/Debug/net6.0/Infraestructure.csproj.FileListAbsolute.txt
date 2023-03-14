@@ -1,0 +1,15 @@
+E:\Desarrollo\Personal\Api\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+E:\Desarrollo\Personal\Api\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+E:\Desarrollo\Personal\Api\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+E:\Desarrollo\Personal\Api\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\EFCoreMySqlNetTopologySuite.cs
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+E:\Desarrollo\Personal\Api\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
